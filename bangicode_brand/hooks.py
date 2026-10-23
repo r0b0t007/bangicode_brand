@@ -1,14 +1,16 @@
 app_name = "bangicode_brand"
 app_title = "Bangicode Brand"
 app_publisher = "Bangicode SARL"
-app_description = "White-label branding from settings: theme, logos, app name, login page, email and letter head templates"
+app_description = (
+	"White-label branding from settings: theme, logos, app name, login page, email and letter head templates"
+)
 app_email = "ahmedchioua@gmail.com"
 app_license = "gpl-3.0"
 
 # Apps
 # ------------------
 
-# required_apps = []
+required_apps = []
 
 # Each item in the list will be shown as an app in the apps page
 # add_to_apps_screen = [
@@ -276,4 +278,3 @@ app_license = "gpl-3.0"
 # ------------
 # List of apps whose translatable strings should be excluded from this app's translations.
 # ignore_translatable_strings_from = []
-
